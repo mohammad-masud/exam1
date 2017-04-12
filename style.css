@@ -1,0 +1,86 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.header1{
+	      margin: 0 auto;
+	      width: 100%;
+	      overflow: hidden;
+	      padding-left: 250px;
+}
+.logo {
+	    width: 25%;
+
+}
+.logo ul{
+	     list-style: none;
+}
+.logo ul li {
+	         display: inline-block;
+	         float: left;
+	         padding: 20px;
+}
+.social_logo{
+	         width: 50%;
+}
+.social_logo ul{
+	     list-style: none;
+}
+.social_logo ul li {
+	         display: inline-block;
+	         float: right;
+	         padding: 5px;
+}
+.header2{
+	      margin: 0 auto;
+	      width: 100%;
+
+}
+.header2 ul{
+	       list-style: none; 
+	       margin-left: 260px;
+}
+.header2 ul li{
+	         display: inline-block;
+	         padding-right: 10px;
+	         text-transform: uppercase;
+
+}
+
+
+
+.slider{
+	    margin: 0 auto;
+	     width: 960px;
+	     background-image: url("background.png");
+
+}
+.para{
+	margin: 0 auto;
+	width: 960px;
+	text-transform: uppercase;
+}
+.button{
+	     margin: 0 auto;
+	     text-align: center;
+	     border: 2px solid green;
+	     width: 200px;
+	     background: green;
+}
+
+
+.footer{
+	width: 100%;
+	background: gray;
+	overflow: hidden;
+	height: 70px;
+}
+.footer h2{
+	       font-size: 20px;
+	       float: right;
+}
+.footer h1{
+	       font-size: 20px;
+	       color: white;
+	       
+}
